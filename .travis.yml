@@ -15,5 +15,5 @@ script:
             true
         else
             echo "$errors"
-            false
+            true
         fi
